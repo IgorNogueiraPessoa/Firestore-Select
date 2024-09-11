@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "424554647255",
+    "project_id": "aula-pamii-14-06",
+    "storage_bucket": "aula-pamii-14-06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424554647255:android:b3c56b85efb0aaec6a6a92",
+        "android_client_info": {
+          "package_name": "br.com.eteczonaleste"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7TbyT_n3xNaeKcIVhOunaHwAPmhenARo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424554647255:android:efc3be58bc19f7446a6a92",
+        "android_client_info": {
+          "package_name": "com.example.pam_21_06"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7TbyT_n3xNaeKcIVhOunaHwAPmhenARo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
